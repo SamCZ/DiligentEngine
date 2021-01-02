@@ -1,6 +1,7 @@
 [submodule "DiligentCore"]
 	path = DiligentCore
 	url = git@github.com:SamCZ/DiligentCore.git
+	branch = better-access
 [submodule "DiligentTools"]
 	path = DiligentTools
 	url = https://github.com/DiligentGraphics/DiligentTools.git
